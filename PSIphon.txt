@@ -1,0 +1,25 @@
+wget https://raw.githubusercontent.com/Psiphon-Inc/psiphon-automation/master/Server/psiphond/psiphond
+
+
+
+
+chmod +x psiphond./psiphond -ipaddress x.x.x.x -protocol OSSH:9999 -protocol
+SSH:8989 -protocol FRONTED-MEEK-OSSH:443 generate
+
+
+./psiphond -ipaddress 167.71.223.239 -protocol FRONTED-MEEK-OSSH:443 generate
+
+
+
+./psiphond -ipaddress 167.71.223.239 -protocol OSSH:9999 -protocol SSH:8989 -protocol FRONTED-MEEK-OSSH:443 generate
+
+
+
+./psiphond run
+
+
+ssh root@167.71.223.239
+
+
+
+cat server-entry.dat
