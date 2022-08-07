@@ -23,3 +23,6 @@ ssh root@167.71.223.239
 
 
 cat server-entry.dat
+
+
+./psiphond -ipaddress 167.71.223.239 -protocol CONJURE-OSSH:443 -protocol FRONTED-MEEK-OSSH:4443 -protocol QUIC-OSSH:4459 -protocol FRONTED-MEEK-QUIC-OSSH:4460 -protocol UNFRONTED-MEEK-SESSION-TICKET-OSSH:9093 generate
