@@ -51,3 +51,4 @@ QUIC-OSSH:4459
 FRONTED-MEEK-QUIC-OSSH:4460
 TAPDANCE-OSSH:4470
 
+./psiphond -ipaddress 167.71.223.239 -protocol OSSH:9999 -protocol SSH:8989 -protocol CONJURE-OSSH:443 generate
