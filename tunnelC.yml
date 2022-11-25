@@ -1,0 +1,6 @@
+server_addr: 157.245.193.236:5223
+tunnels:
+  remotedesk:
+    proto: tcp
+    addr: 127.0.0.1:8123
+    remote_addr: 157.245.193.236:9123
