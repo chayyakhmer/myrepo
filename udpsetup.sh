@@ -5,4 +5,5 @@ chmod +x /data/data/com.termux/files/home/udp/udp
 #cp /data/data/com.termux/files/home/udp/runudp.sh /data/data/com.termux/files/home/runudp.sh
 rm runudp.sh 
 wget https://raw.githubusercontent.com/chayyakhmer/myrepo/main/runudp.sh
-chmod +x runudp.sh
+
+chmod +x /data/data/com.termux/files/home/runudp.sh
