@@ -1,4 +1,3 @@
-pkg update -y
 rm -rf  /data/data/com.termux/files/home/udp
 rm /data/data/com.termux/files/home/runudp.sh
 git clone https://github.com/chayyakhmer/udp.git
