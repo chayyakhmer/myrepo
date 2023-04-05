@@ -1,0 +1,10 @@
+{
+	"ProxyMethod":"openvpnudp",
+	"EncryptionMethod":"aes-128-gcm",
+	"UID":"Uh26ip8PDqRbDm08bXxlKA==",
+	"PublicKey":"ma8HpdFIoVyhuxEVD+WhmCC8wzhT+xF0tJkGm9qyuU8=",
+	"ServerName":"m.mobilelegends.com",
+	"NumConn":4,
+	"BrowserSig":"chrome",
+	"StreamTimeout": 300
+}
