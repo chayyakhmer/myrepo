@@ -1,0 +1,22 @@
+# tunnels.yml
+
+tunnels:
+  - local_port: 8964
+    remote_ip: 192.168.1.184
+    remote_port: 8964
+    ssh_config:
+      server_ip: 52.220.121.212
+      server_port: 19785
+      username: root
+      options:
+        - ServerAliveInterval=240
+
+  - local_port: 8089
+    remote_ip: localhost
+    remote_port: 8089
+    ssh_config:
+      server_ip: 52.220.121.212
+      server_port: 19785
+      username: root
+      options:
+        - ServerAliveInterval=240
