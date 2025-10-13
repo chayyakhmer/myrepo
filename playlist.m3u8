@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Ne Zha 2 MKV (Direct)
+https://192.168.1.125:8443/0/Peerflix/Ne.Zha.2.A.K.A.Nezha.Mo.tong.nao.hai.2025.DUAL-AUDIO.CHI-ENG.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Ne.Zha.2.A.K.A.Nezha.Mo.tong.nao.hai.2025.DUAL-AUDIO.CHI-ENG.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+
+#EXTINF:-1,Ne Zha 2 (DUAL AUDIO HLS)
+https://192.168.1.125:8443/1/stream/playlist.m3u8
+
+
+#EXTINF:-1, Test Me (DUAL AUDIO HLS)
+https://192.168.1.125:8443/0/2008/2160p/playlist.m3u8
+
+#EXTINF:-1, How to Train Your Dragon
+http://192.168.1.125:1313
