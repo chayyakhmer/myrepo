@@ -9,3 +9,5 @@ https://192.168.1.125:8443/0/2008/2160p/playlist.m3u8
 http://192.168.1.125:1313
 #EXTINF:-1,Gojo
 https://192.168.1.125:8443/0/Peerflix/%5BJudas%5D%20Jujutsu%20Kaisen%20%28Season%201%29%20%5B1080p%5D%5BHEVC%20x265%2010bit%5D%5BMulti-Subs%5D/%5BJudas%5D%20Jujutsu%20Kaisen%20-%20S01E20.mkv
+#EXTINF:-1,PNN
+https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8?manifestfilter=video_bitrate:1-4194304&uid=2295871
