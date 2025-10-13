@@ -17,3 +17,5 @@ https://p1-es2-netcdn.metfone.com.kh/netcdn-live-50/cna/index.m3u8?timestamp=176
 https://p1-es2-netcdn.metfone.com.kh/netcdn-live-75/bloomberg/index.m3u8?timestamp=1760366214&token=7ea09787adcd79f1cc25023667374b12&uid=2295871
 #EXTINF:-1,RT
 https://p1-es1-netcdn.metfone.com.kh/netcdn-live-88/rtdocumentary/index.m3u8?timestamp=1760366265&token=816e9885db259cb490322c4eed8bf12d&uid=2295871
+#EXTINF:-1,NHK
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8?manifestfilter=video_bitrate:1-4194304&uid=2295871
