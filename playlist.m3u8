@@ -21,3 +21,5 @@ https://p1-es1-netcdn.metfone.com.kh/netcdn-live-88/rtdocumentary/index.m3u8?tim
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8?manifestfilter=video_bitrate:1-4194304&uid=2295871
 #EXTINF:-1,FreshNews
 https://p1-es2-netcdn.metfone.com.kh/netcdn-live-13/live/ngrp:myStream_all/playlist.m3u8?timestamp=1760366322&token=a772dc1ad51e9cf778e8dd9ca342cb0e&uid=2295871
+#EXTINF:-1,TVK
+https://p1-es2-netcdn.metfone.com.kh/netcdn-live-9/live/tvk.stream/playlist.m3u8?timestamp=1760366622&token=3121e9d066d39654821e4589cfcca9b7&uid=2295871
