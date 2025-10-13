@@ -13,3 +13,5 @@ https://192.168.1.125:8443/0/Peerflix/%5BJudas%5D%20Jujutsu%20Kaisen%20%28Season
 https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8?manifestfilter=video_bitrate:1-4194304&uid=2295871
 #EXTINF:-1,CNA
 https://p1-es2-netcdn.metfone.com.kh/netcdn-live-50/cna/index.m3u8?timestamp=1760363715&token=6aea893a6280d450ed2e9ca5565de1c1&uid=2295871
+#EXTINF:-1,Bloomberg
+https://p1-es2-netcdn.metfone.com.kh/netcdn-live-75/bloomberg/index.m3u8?timestamp=1760366214&token=7ea09787adcd79f1cc25023667374b12&uid=2295871
